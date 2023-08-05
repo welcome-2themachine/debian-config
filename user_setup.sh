@@ -3,9 +3,10 @@
 #this script is meant to move all the .confs around and make stuff look pretty
 
 neofetch
-mkdir -p ~/.local/share/fonts ~/.ssh ~/.config/{tmux,poshthemes}
+mkdir -p ~/.local/share/fonts ~/.ssh ~/.config/{tmux,poshthemes,htop}
 
 mv resources/neofetch_config.conf ~/.config/neofetch/config.conf
+mv resources/htoprc ~/.config/htop/
 mv resources/fonts/*.ttf ~/.local/share/fonts/
 mv resources/.bashrc ~/.bashrc
 mv resources/poshthemes ~/.config/poshthemes
