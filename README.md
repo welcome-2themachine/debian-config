@@ -10,8 +10,8 @@ Scripts are builder for user: mechanicus - change all instances of this if you w
 	- select custom install
 	- select encrypted storage
 2. Run: sudo apt update && sudo apt upgrade
-3. chmod +x control-script.sh
-4. ./control-script.sh
+3. chmod +x install.sh
+4. ./install.sh
 5. System will reboot after the control script is finished - be warned
 6. Enjoy a super slim Debian (should be under 1k packages)
 
