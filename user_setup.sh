@@ -10,6 +10,8 @@ mv resources/fonts/*.ttf ~/.local/share/fonts/
 mv resources/.bashrc ~/.bashrc
 mv resources/poshthemes ~/.config/poshthemes
 mv resources/getip /usr/bin/
+sudo chmod +x /usr/bin/getip
+sudo chown root:root /usr/bin/getip
 mv resources/ssh.config ~/.ssh/config
 mv resources/tmux.conf ~/.config/tmux/tmux.conf
 #these need to be added to firefox by the user
