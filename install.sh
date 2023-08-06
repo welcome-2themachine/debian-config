@@ -1,5 +1,10 @@
 #! /bin/bash
 
+# This is the base install script for a minimal debian install
+# Created Date: Thursday, 03 August 2023
+# Author: welcome-2themachine
+# License: GPL3
+
 #add more things before this
 
 #chmod +x miniscripts/*

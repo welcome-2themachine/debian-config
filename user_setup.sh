@@ -1,5 +1,9 @@
 #! /bin/bash
 
+# Created Date: Thursday, 03 August 2023
+# Author: welcome-2themachine
+# License: GPL3
+
 #this script is meant to move all the .confs around and make stuff look pretty
 
 neofetch
