@@ -18,7 +18,7 @@ firefox \
 btop \
 htop \
 nmap \
-gvfs \
+#get the right smb files
 
 
 #cockpit
