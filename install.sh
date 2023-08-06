@@ -44,7 +44,7 @@ if $(getopt -T > /dev/null 2>&1) ; [ $? = 4 ] ; then # New longopts getopt.
 else # Old classic getopt.
     # Special handling for --help and --version on old getopt.
     case $1 in --help) echo "help me" ; exit 0 ;; esac
-    case $1 in --version) "print me" ; exit 0 '' esac
+    case $1 in --version) echo "print me" ; exit 0 '' esac
     OPTS=(getopt $SHORTOPTS "$@")
 fi
 
