@@ -35,6 +35,28 @@
 #./miniscripts/fingerprint.sh
 #./miniscripts/nvidia.sh
 
+SHORTOPTS="anxdhv"
+LONGOPS="amd,nvidia,xps,desktop,help,version"
+
+if $(getopt -T > /dev/null 2>&1) ; [ $? = 4 ] ; then # New longopts getopt.
+    OPTS=$(getopt -o $SHORTOPTS --long $LONGOPTS -n "$progname" -- "$@")
+else # Old classic getopt.
+    # Special handling for --help and --version on old getopt.
+    case $1 in --help) echo "help me" ; exit 0 ;; esac
+    case $1 in --version) "print me" ; exit 0 '' esac
+    OPTS=(getopt $SHORTOPTS "$@")
+fi
+
+if [ $? -ne 0 ]; then
+    echo "'$progname --help' for more information" 1>&2
+    exit 1
+fi
+
+eval set -- "$OPTS"
+# I don't entirely understand all of this ^ https://lists.gnu.org/archive/html/help-gnu-utils/2008-11/msg00002.html
+
+
+
 while getopts "anxdh" option; do
     case $option in
         a)
