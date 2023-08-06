@@ -18,6 +18,13 @@ firefox \
 btop \
 htop \
 nmap \
+sensors-aplet \
+lm-sensors \
+iperf3 \
+gnome-text-editor \
+tmux \
+lshw \
+
 #get the right smb files
 
 

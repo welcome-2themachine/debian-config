@@ -15,6 +15,7 @@ sudo apt update && sudo apt upgrade
 #./miniscripts/cloudflared.sh
 #./miniscripts/vscode.sh
 #./miniscripts/install_nordvpn.sh
+#./miniscripts/discord.sh
 #./miniscripts/card_reader_setup.sh
 #./miniscripts/xbox_controller_setup.sh
 
