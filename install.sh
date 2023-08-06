@@ -15,6 +15,7 @@
 # General List
 #./user_setup.sh
 #./miniscripts/amd_cpu.sh
+#./miniscripts/parsecd.sh
 #./miniscripts/intel_cpu.sh
 #./miniscripts/sshd_setup.sh
 #./miniscripts/ufw_setup.sh
