@@ -20,8 +20,8 @@ mv resources/unclass-certificates_pkcs7_v5-6_dod.zip ~/Downloads
 
 neofetch
 #this is basically a print statement
-sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /bin/oh-my-posh
-sudo chmod +x /bin/oh-my-posh
+sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/bin/oh-my-posh
+sudo chmod +x /usr/bin/oh-my-posh
 
 #set the desktop background
 sudo mv resources/backgrounds/* /usr/share/backgrounds/

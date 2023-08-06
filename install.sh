@@ -8,6 +8,7 @@ chmod +x miniscripts/*
 sudo apt update && sudo apt upgrade
 
 # General List
+#./user_setup.sh
 #./miniscripts/sshd_setup.sh
 #./miniscripts/ufw_setup.sh
 #./miniscripts/app_install.sh
@@ -16,10 +17,12 @@ sudo apt update && sudo apt upgrade
 #./miniscripts/vscode.sh
 #./miniscripts/install_nordvpn.sh
 #./miniscripts/discord.sh
+#./miniscripts/obsidian.sh
 #./miniscripts/card_reader_setup.sh
 #./miniscripts/xbox_controller_setup.sh
 
 # Desktop List
+#./miniscripts/amd.sh
 
 # XPS 15 9520 List
 #./miniscripts/fingerprint.sh
