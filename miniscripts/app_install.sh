@@ -28,6 +28,8 @@ iperf3 \
 gnome-text-editor \
 tmux \
 lshw \
+cifs-utils \
+smbclient \
 
 #get the right smb files
 
