@@ -46,6 +46,7 @@ gnome-software-plugin-flatpak \
 gnome-software-plugin-snap \
 gnome-browser-connector \
 gnome-tweaks \
+gnome-text-editor \
 gnome-themes-extra \
 gnome-shell-extension-manager \
 gnome-shell-extensions \
@@ -68,5 +69,3 @@ cbonsai \
 lolcat \
 cowsay
 
-#broken
-#gnome-text-editor \
