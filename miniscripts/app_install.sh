@@ -24,7 +24,6 @@ nmap \
 sensors-applet \
 lm-sensors \
 iperf3 \
-gnome-text-editor \
 tmux \
 lshw \
 cifs-utils \
@@ -67,3 +66,6 @@ cmatrix \
 cbonsai \
 lolcat \
 cowsay
+
+#broken
+#gnome-text-editor \
