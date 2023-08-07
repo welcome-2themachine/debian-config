@@ -48,6 +48,12 @@ print_help()
     echo " -h|--help: to show this menu"
 }
 
+#***********************************************************************
+# REMOVE IF YOU GET IT WORKING
+echo "this scrips is unfinished"
+exit 0
+#***********************************************************************
+
 SHORTOPTS="anicxdh"
 LONGOPS="amdgpu,nvidia,intelcpu,amdcpu,xps,desktop,help"
 
