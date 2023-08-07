@@ -6,6 +6,7 @@
 sudo apt update
 sudo apt install \
 neofetch \
+apt-listbugs \
 nano \
 curl \
 wget \

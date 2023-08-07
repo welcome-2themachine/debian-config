@@ -1,5 +1,5 @@
 # debian-config
-Setup debian sid on a Dell XPS 15 9520
+Setup debian testing on a Dell XPS 15 9520
 
 This is not fully automated - you will have to be on keyboard to approve installs, and catch bugs.
 
