@@ -7,8 +7,8 @@ update /apt/sources.list
 sudo apt update && sudo apt upgrade
 
 # General List
-./user_setup.sh
 ./miniscripts/app_install.sh
+./user_setup.sh
 ./miniscripts/parsecd.sh
 ./miniscripts/sshd_setup.sh
 ./miniscripts/ufw_setup.sh

@@ -15,13 +15,13 @@
 #sudo apt update && sudo apt upgrade
 
 # General List
+#./miniscripts/app_install.sh
 #./user_setup.sh
 #./miniscripts/amd_cpu.sh
 #./miniscripts/parsecd.sh
 #./miniscripts/intel_cpu.sh
 #./miniscripts/sshd_setup.sh
 #./miniscripts/ufw_setup.sh
-#./miniscripts/app_install.sh
 #./miniscripts/plymouth.sh
 #./miniscripts/cloudflared.sh
 #./miniscripts/vscode.sh
