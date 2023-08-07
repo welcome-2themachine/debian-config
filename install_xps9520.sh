@@ -7,7 +7,6 @@ sudo apt update && sudo apt upgrade
 
 # General List
 ./user_setup.sh
-./miniscripts/intel_cpu.sh
 ./miniscripts/parsecd.sh
 ./miniscripts/intel_cpu.sh
 ./miniscripts/sshd_setup.sh
@@ -27,3 +26,4 @@ sudo apt update && sudo apt upgrade
 ./miniscripts/fingerprint.sh
 ./miniscripts/nvidia.sh
 ./miniscripts/laptop_power.sh
+./miniscripts/intel_cpu.sh

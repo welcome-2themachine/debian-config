@@ -15,6 +15,32 @@ Scripts are builder for user: mechanicus - change all instances of this if you w
 5. System will reboot after the control script is finished - be warned
 6. Enjoy a super slim Debian (should be under 1k packages)
 
+# Scripts
+	# General List
+		user_setup.sh
+		parsecd.sh
+		sshd_setup.sh
+		ufw_setup.sh
+		app_install.sh
+		plymouth.sh
+		cloudflared.sh
+		vscode.sh
+		install_nordvpn.sh
+		discord.sh
+		obsidian.sh
+		card_reader_setup.sh
+		xbox_controller_setup.sh
+
+	# Desktop
+		amd_cpu.sh
+		amd.sh
+
+	# XPS 15 9520 List
+		fingerprint.sh
+		nvidia.sh
+		laptop_power.sh
+		intel_cpu.sh
+
 # Cleanup
 1. Install the following Gnome Extensions (https://extensions.gnome.org/local/)
 	- Clipboard Indicator (https://extensions.gnome.org/extension/779/clipboard-indicator/)
