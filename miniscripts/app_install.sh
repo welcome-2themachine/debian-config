@@ -5,7 +5,6 @@
 # License: GPL3
 
 sudo apt install \
-#tools
 neofetch \
 nano \
 curl \
@@ -30,20 +29,13 @@ tmux \
 lshw \
 cifs-utils \
 smbclient \
-
-#get the right smb files
-
-
-#cockpit
 cockpit \
 cockpit-networkmanager \
 cockpig-packagekit \
 cockpit-podman \
 cockpit-storaged \
 cockpit-system \
-#libraries
 libvulkan1 \
-#gnome
 gnome-shell \
 gnome-shell-common \
 gnome-terminal \
@@ -68,13 +60,8 @@ gnome-calculator \
 nautilus \
 gparted \
 baobab \
-#steam
 steam-devices \
-#docker
-
-#fonts
 fonts-noto-color-emoji \
-#toys
 cmatrix \
 cbonsai \
 lolcat \
