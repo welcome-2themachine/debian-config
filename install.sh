@@ -8,6 +8,8 @@
 #add more things before this
 
 #chmod +x miniscripts/*
+#chmod +x user_setup.sh
+
 #update /apt/sources.list
 #./miniscripts/sources.sh
 #sudo apt update && sudo apt upgrade
