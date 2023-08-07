@@ -3,7 +3,7 @@
 # Created Date: Thursday, 03 August 2023
 # Author: welcome-2themachine
 # License: GPL3
-
+sudo apt update
 sudo apt install \
 neofetch \
 nano \
@@ -36,6 +36,7 @@ cockpit-podman \
 cockpit-storaged \
 cockpit-system \
 libvulkan1 \
+gnome-core \
 gnome-shell \
 gnome-shell-common \
 gnome-terminal \
@@ -49,12 +50,12 @@ gnome-themes-extra \
 gnome-shell-extension-manager \
 gnome-shell-extensions \
 gnome-shell-extensions-extra \
-gnome-shell-extention-bluetooth-quick-connect \
-gnome-shell-extention-expresso \
-gnome-shell-extention-bashrtodock \
-gnome-shell-extention-tiling-assistant \
-gnome-shell-extention-gamemode \
-gnome-shell-extention-tiling-assistant \
+gnome-shell-extension-bluetooth-quick-connect \
+gnome-shell-extension-expresso \
+gnome-shell-extension-bashrtodock \
+gnome-shell-extension-tiling-assistant \
+gnome-shell-extension-gamemode \
+gnome-shell-extension-tiling-assistant \
 gnome-shell-extension-system-monitor \
 gnome-calculator \
 nautilus \
