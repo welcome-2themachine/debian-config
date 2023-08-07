@@ -4,6 +4,9 @@
 # Author: welcome-2themachine
 # License: GPL3
 
+# Check key dependency
+sudo apt install curl
+
 # Add cloudflare gpg key
 sudo mkdir -p --mode=0755 /usr/share/keyrings
 curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /usr/share/keyrings/cloudflare-main.gpg >/dev/null

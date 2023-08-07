@@ -52,7 +52,7 @@ gnome-shell-extensions \
 gnome-shell-extensions-extra \
 gnome-shell-extension-bluetooth-quick-connect \
 gnome-shell-extension-espresso \
-gnome-shell-extension-dashrtodock \
+gnome-shell-extension-dashtodock \
 gnome-shell-extension-tiling-assistant \
 gnome-shell-extension-gamemode \
 gnome-shell-extension-tiling-assistant \
