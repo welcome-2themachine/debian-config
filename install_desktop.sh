@@ -8,7 +8,6 @@ sudo apt update && sudo apt upgrade
 # General List
 ./user_setup.sh
 ./miniscripts/parsecd.sh
-./miniscripts/intel_cpu.sh
 ./miniscripts/sshd_setup.sh
 ./miniscripts/ufw_setup.sh
 ./miniscripts/app_install.sh
