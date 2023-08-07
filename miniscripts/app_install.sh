@@ -12,7 +12,7 @@ wget \
 git \
 gh \
 gimp \
-upzip \
+unzip \
 make \
 proxychains4 \
 hashcat \
@@ -21,7 +21,7 @@ firefox \
 btop \
 htop \
 nmap \
-sensors-aplet \
+sensors-applet \
 lm-sensors \
 iperf3 \
 gnome-text-editor \
@@ -31,7 +31,7 @@ cifs-utils \
 smbclient \
 cockpit \
 cockpit-networkmanager \
-cockpig-packagekit \
+cockpit-packagekit \
 cockpit-podman \
 cockpit-storaged \
 cockpit-system \
@@ -51,8 +51,8 @@ gnome-shell-extension-manager \
 gnome-shell-extensions \
 gnome-shell-extensions-extra \
 gnome-shell-extension-bluetooth-quick-connect \
-gnome-shell-extension-expresso \
-gnome-shell-extension-bashrtodock \
+gnome-shell-extension-espresso \
+gnome-shell-extension-dashrtodock \
 gnome-shell-extension-tiling-assistant \
 gnome-shell-extension-gamemode \
 gnome-shell-extension-tiling-assistant \
