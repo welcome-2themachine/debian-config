@@ -22,7 +22,6 @@ sudo apt update && sudo apt upgrade
 ./miniscripts/signal-desktop.sh
 ./miniscripts/card_reader_setup.sh
 ./miniscripts/xbox_controller_setup.sh
-./miniscripts/parsecd.sh
 
 # XPS 15 9520 List
 ./miniscripts/fingerprint.sh
