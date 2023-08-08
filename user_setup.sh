@@ -7,7 +7,7 @@
 #this script is meant to move all the .confs around and make stuff look pretty
 
 neofetch
-mkdir -p ~/.local/share/fonts ~/.ssh ~/.config/{tmux,poshthemes,htop}
+mkdir -p ~/.local/share/fonts ~/.ssh ~/.config/{tmux,poshthemes,htop} ~/Downloads
 
 mv resources/neofetch_config.conf ~/.config/neofetch/config.conf
 mv resources/htoprc ~/.config/htop/
@@ -20,7 +20,7 @@ sudo chown root:root /usr/bin/getip
 mv resources/ssh.config ~/.ssh/config
 mv resources/tmux.conf ~/.config/tmux/tmux.conf
 #these need to be added to firefox by the user
-mv resources/unclass-certificates_pkcs7_v5-6_dod.zip ~/Downloads
+mv resources/unclass-certificates_pkcs7_v5-6_dod.zip ~/Downloads/dod-certificates.zip
 
 neofetch
 #this is basically a print statement
