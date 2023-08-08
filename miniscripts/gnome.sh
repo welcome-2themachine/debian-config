@@ -4,7 +4,7 @@ sudo apt update
 
 sudo apt install \
 adwaita-icon-theme \
-boabab \
+baobab \
 dconf-cli \
 dconf-gsettings-backend \
 gdm3 \
@@ -38,3 +38,5 @@ pipewire-audio \
 sound-theme-freedesktop \
 system-config-printer-udev \
 network-manager-gnome
+
+sudo systemctl start gdm
