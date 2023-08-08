@@ -9,7 +9,7 @@ neofetch \
 apt-listbugs \
 bash-completion \
 dnsutils \
-fie \
+file \
 curl \
 wget \
 git \
@@ -20,7 +20,7 @@ make \
 proxychains4 \
 hashcat \
 net-tools \
-firefox \
+firefox-esr \
 btop \
 htop \
 nmap \
