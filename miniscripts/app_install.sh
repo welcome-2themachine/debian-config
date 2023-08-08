@@ -51,7 +51,6 @@ gnome-tweaks \
 gnome-text-editor \
 gnome-themes-extra \
 gnome-shell-extension-manager \
-gnome-shell-extensions \
 gnome-shell-extensions-extra \
 gnome-shell-extension-bluetooth-quick-connect \
 gnome-shell-extension-espresso \
