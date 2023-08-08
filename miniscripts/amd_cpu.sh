@@ -4,4 +4,4 @@
 # Author: welcome-2themachine
 # License: GPL3
 
-apt install amd64-microcode
+sudo apt install amd64-microcode
