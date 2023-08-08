@@ -5,7 +5,7 @@
 # License: GPL3
 
 #install plymouth
-apt install \
+sudo apt install \
 plymouth \
 plymouth-themes
 

@@ -5,4 +5,6 @@
 # License: GPL3
 
 sudo chown root:root resources/sources.list
+sudo chown root:root resources/preferences
 sudo mv resources/sources.list /etc/apt/sources.list
+sudo mv resources/preferences /etc/apt/
