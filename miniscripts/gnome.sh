@@ -10,6 +10,7 @@ dconf-gsettings-backend \
 gdm3 \
 glib-networking \
 gnome-backgrounds \
+gnome-bluetooth-sendto \
 gnome-calculator \
 gnome-control-center \
 gnome-keyring \
