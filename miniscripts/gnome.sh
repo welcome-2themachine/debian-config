@@ -3,11 +3,11 @@
 sudo apt update
 
 sudo apt install \
+gdm3 \
 adwaita-icon-theme \
 baobab \
 dconf-cli \
 dconf-gsettings-backend \
-gdm3 \
 glib-networking \
 gnome-backgrounds \
 gnome-bluetooth-sendto \
