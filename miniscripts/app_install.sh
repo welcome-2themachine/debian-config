@@ -7,7 +7,9 @@ sudo apt update
 sudo apt install \
 neofetch \
 apt-listbugs \
-nano \
+bash-completion \
+dnsutils \
+fie \
 curl \
 wget \
 git \
