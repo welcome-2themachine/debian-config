@@ -16,6 +16,7 @@
 
 # General List
 #./miniscripts/app_install.sh
+#./miniscripts/gnome.sh
 #./user_setup.sh
 #./miniscripts/amd_cpu.sh
 #./miniscripts/parsecd.sh

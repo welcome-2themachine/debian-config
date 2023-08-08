@@ -8,6 +8,7 @@ sudo apt update && sudo apt upgrade
 
 # General List
 ./miniscripts/app_install.sh
+./miniscripts/gnome.sh
 ./user_setup.sh
 ./miniscripts/parsecd.sh
 ./miniscripts/sshd_setup.sh
