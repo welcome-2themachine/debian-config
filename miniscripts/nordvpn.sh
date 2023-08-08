@@ -6,5 +6,6 @@
 
 sudo apt install wget
 #nordvpn
-sudo sh <(wget -qO - https://downloads.nordcdn.com/apps/linux/install.sh)
+sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)
+
 sudo usermod -aG nordvpn mechanicus
