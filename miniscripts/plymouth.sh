@@ -4,6 +4,10 @@
 # Author: welcome-2themachine
 # License: GPL3
 
+sudo chown root:root resources/grub
+sudo mv resources/grub /etc/default/grub
+sudo update-grub2
+
 #install plymouth
 sudo apt install \
 plymouth \
