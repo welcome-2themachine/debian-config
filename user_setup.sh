@@ -13,7 +13,7 @@ mv resources/neofetch_config.conf ~/.config/neofetch/config.conf
 mv resources/htoprc ~/.config/htop/
 mv resources/fonts/*.ttf ~/.local/share/fonts/
 mv resources/.bashrc ~/.bashrc
-mv resources/poshthemes ~/.config/poshthemes
+mv resources/poshthemes/* ~/.config/poshthemes/
 mv resources/getip /usr/bin/
 sudo chmod +x /usr/bin/getip
 sudo chown root:root /usr/bin/getip
