@@ -31,7 +31,7 @@ gnome-tweaks \
 gnome-text-editor \
 gnome-themes-extra \
 gnome-shell-extension-manager \
-gnome-shell-extionsion-autohidetopbar \
+gnome-shell-extension-autohidetopbar \
 gnome-shell-extension-bluetooth-quick-connect \
 gnome-shell-extension-espresso \
 gvfs-backends \
