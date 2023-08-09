@@ -10,6 +10,8 @@ sudo apt update && sudo apt upgrade
 ./miniscripts/app_install.sh
 ./miniscripts/gnome.sh
 ./user_setup.sh
+./miniscripts/gnome-extensions.sh
+./miniscripts/steam.sh
 ./miniscripts/parsecd.sh
 ./miniscripts/sshd_setup.sh
 ./miniscripts/ufw_setup.sh

@@ -10,6 +10,8 @@ sudo apt update && sudo apt upgrade
 ./miniscripts/app_install.sh
 ./miniscripts/gnome.sh
 ./user_setup.sh
+./miniscripts/gnome-extensions.sh
+./miniscripts/steam.sh
 ./miniscripts/parsecd.sh
 ./miniscripts/sshd_setup.sh
 ./miniscripts/ufw_setup.sh
@@ -18,7 +20,7 @@ sudo apt update && sudo apt upgrade
 ./miniscripts/vscode.sh
 ./miniscripts/install_nordvpn.sh
 ./miniscripts/discord.sh
-./miniscripts/obsidian.
+./miniscripts/obsidian.sh
 ./miniscripts/signal-desktop.sh
 ./miniscripts/card_reader_setup.sh
 ./miniscripts/xbox_controller_setup.sh

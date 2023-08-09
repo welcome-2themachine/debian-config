@@ -11,16 +11,16 @@
 #chmod +x user_setup.sh
 
 #update /apt/sources.list
-#./miniscripts/sources.sh
+##./miniscripts/sources.sh
 #sudo apt update && sudo apt upgrade
 
 # General List
 #./miniscripts/app_install.sh
 #./miniscripts/gnome.sh
 #./user_setup.sh
-#./miniscripts/amd_cpu.sh
+#./miniscripts/gnome-extensions.sh
+#./miniscripts/steam.sh
 #./miniscripts/parsecd.sh
-#./miniscripts/intel_cpu.sh
 #./miniscripts/sshd_setup.sh
 #./miniscripts/ufw_setup.sh
 #./miniscripts/plymouth.sh
@@ -34,11 +34,11 @@
 #./miniscripts/xbox_controller_setup.sh
 
 # Desktop List
-#./miniscripts/amd.sh
+##./miniscripts/amd.sh
 
 # XPS 15 9520 List
-#./miniscripts/fingerprint.sh
-#./miniscripts/nvidia.sh
+##./miniscripts/fingerprint.sh
+##./miniscripts/nvidia.sh
 print_help()
 {
     echo "Options:"
