@@ -7,5 +7,7 @@
 
 sudo apt install wget
 wget https://builds.parsec.app/package/parsec-linux.deb -O parsec.deb
-sudo apt install ./parsec.deb
+sudo dpkg -i ./parsec.deb
+sudo apt install -f
+sudo dpkg -i parsec.deb
 rm parsec.deb

@@ -38,6 +38,7 @@ cockpit-podman \
 cockpit-storaged \
 cockpit-system \
 dkms \
+vlc \
 libvulkan1 \
 steam-devices \
 fonts-noto-color-emoji \
