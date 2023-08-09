@@ -30,6 +30,7 @@ gnome-browser-connector \
 gnome-tweaks \
 gnome-text-editor \
 gnome-themes-extra \
+gnome-shell-extensions \
 gnome-shell-extension-manager \
 gnome-shell-extension-autohidetopbar \
 gnome-shell-extension-bluetooth-quick-connect \
