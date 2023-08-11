@@ -5,7 +5,13 @@
 # Author: welcome-2themachine
 # License: GPL3
 
+chmod +x miniscripts/*
+chmod +x user_setup.sh
 echo "Configure install.sh by uncommenting the miniscripts you need for your device"
+
+##### Update First #####
+#miniscripts/soureces.sh
+#sudo apt update && sudo apt upgrade
 
 ##### AMD CPU #####
 #miniscripts/amd_cpu.sh
