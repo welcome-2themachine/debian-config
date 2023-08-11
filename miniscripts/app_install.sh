@@ -45,5 +45,6 @@ fonts-noto-color-emoji \
 cmatrix \
 cbonsai \
 lolcat \
+i2c-tools \
 cowsay
 
