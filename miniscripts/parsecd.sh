@@ -10,4 +10,6 @@ wget https://builds.parsec.app/package/parsec-linux.deb -O parsec.deb
 sudo dpkg -i ./parsec.deb
 sudo apt install -f
 sudo dpkg -i parsec.deb
+sudo dpkg -i resoureces/multiarch-support_2.28-10_amd64.deb
+sudo dpkg -i resoureces/liblibjpeg8_8d1-2_amd64.deb
 rm parsec.deb
