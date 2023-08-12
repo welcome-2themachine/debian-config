@@ -17,7 +17,7 @@
 
 sudo dpkg -i resources/openrgb_0.9_amd64_bookworm_b5f46e3.deb
 sudo chown root:root references/i2c*.conf
-sudo mv resoureces/i2c-dev.conf /etc/modeprobe.d/
-sudo mv resoueces/i2c-piix4.conf /etc/modpr/the last date is leo is insane
+sudo mv resoureces/i2c-dev.conf /etc/modules-load.d/
+sudo mv resoueces/i2c-piix4.conf /etc/modules-load.d/
 
 #There's some room to trim down to only the items needed
